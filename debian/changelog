@@ -1,0 +1,8 @@
+ros-kinetic-bagger (0.1.1-0xenial) xenial; urgency=high
+
+  * Initial Commit
+  * Contributors: Brenden Gibbons
+
+ -- Maintainer <maintainer@squarerobots.com>  Fri, 29 Jun 2018 04:00:00 -0000
+
+
