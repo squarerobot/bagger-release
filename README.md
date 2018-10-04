@@ -1,3 +1,26 @@
+## bagger (kinetic) - 0.1.3-2
+
+The packages in the `bagger` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic bagger` on `Thu, 04 Oct 2018 16:21:59 -0000`
+
+The `bagger` package was released.
+
+Version of package(s) in repository `bagger`:
+
+- upstream repository: https://github.com/squarerobot/bagger.git
+- release repository: https://github.com/squarerobot/bagger-release.git
+- rosdistro version: `0.1.2-0`
+- old version: `0.1.3-1`
+- new version: `0.1.3-2`
+
+Versions of tools used:
+
+- bloom version: `0.6.7`
+- catkin_pkg version: `0.4.8`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.9`
+- vcstools version: `0.1.40`
+
+
 ## bagger (kinetic) - 0.1.3-1
 
 The packages in the `bagger` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic bagger` on `Thu, 04 Oct 2018 16:17:06 -0000`
