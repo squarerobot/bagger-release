@@ -1,3 +1,26 @@
+## bagger (melodic) - 0.1.3-0
+
+The packages in the `bagger` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistro melodic --track melodic bagger --edit` on `Thu, 04 Oct 2018 16:29:50 -0000`
+
+The `bagger` package was released.
+
+Version of package(s) in repository `bagger`:
+
+- upstream repository: https://github.com/squarerobot/bagger.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.3-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.7`
+- catkin_pkg version: `0.4.8`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.9`
+- vcstools version: `0.1.40`
+
+
 ## bagger (kinetic) - 0.1.3-2
 
 The packages in the `bagger` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic bagger` on `Thu, 04 Oct 2018 16:21:59 -0000`
