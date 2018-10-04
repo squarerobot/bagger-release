@@ -1,0 +1,12 @@
+Source: ros-melodic-bagger
+Section: misc
+Priority: extra
+Maintainer: Brenden Gibbons <bgibbons@squarerobots.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin, ros-melodic-geometry-msgs, ros-melodic-message-generation, ros-melodic-nav-msgs, ros-melodic-roscpp, ros-melodic-roslint, ros-melodic-rostest, ros-melodic-std-msgs
+Homepage: http://www.ros.org/wiki/bagger
+Standards-Version: 3.9.2
+
+Package: ros-melodic-bagger
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-message-runtime, ros-melodic-rosbag, ros-melodic-roscpp, ros-melodic-rospy, ros-melodic-rostest, ros-melodic-std-msgs
+Description: An application used to systematically record rosbags
