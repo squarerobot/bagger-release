@@ -1,0 +1,23 @@
+ros-kinetic-bagger (0.1.3-1xenial) xenial; urgency=high
+
+  * Infer and publish bag names and directories for each bag profile
+  * Add CL option to not decompress bags.  Fixes #4 <https://github.com/squarerobot/bagger/issues/4>
+  * Contributors: Brenden Gibbons
+
+ -- Brenden Gibbons <bgibbons@squarerobots.com>  Thu, 04 Oct 2018 04:00:00 -0000
+
+ros-kinetic-bagger (0.1.2-1xenial) xenial; urgency=high
+
+  * Fix some urls and Fix #1 <https://github.com/squarerobot/bagger/issues/1>
+  * Contributors: Brenden Gibbons
+
+ -- Brenden Gibbons <bgibbons@squarerobots.com>  Thu, 12 Jul 2018 04:00:00 -0000
+
+ros-kinetic-bagger (0.1.1-1xenial) xenial; urgency=high
+
+  * Initial Commit
+  * Contributors: Brenden Gibbons
+
+ -- Maintainer <maintainer@squarerobots.com>  Fri, 29 Jun 2018 04:00:00 -0000
+
+
