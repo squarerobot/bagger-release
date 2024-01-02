@@ -1,3 +1,26 @@
+## bagger (noetic) - 0.1.5-1
+
+The packages in the `bagger` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --rosdistro noetic --track noetic bagger` on `Tue, 02 Jan 2024 16:06:23 -0000`
+
+The `bagger` package was released.
+
+Version of package(s) in repository `bagger`:
+
+- upstream repository: https://github.com/squarerobot/bagger.git
+- release repository: https://github.com/squarerobot/bagger-release.git
+- rosdistro version: `0.1.4-1`
+- old version: `0.1.4-1`
+- new version: `0.1.5-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## bagger (noetic) - 0.1.4-1
 
 The packages in the `bagger` repository were released into the `noetic` distro by running `/usr/bin/bloom-release bagger --rosdistro noetic` on `Mon, 26 Apr 2021 20:38:50 -0000`
